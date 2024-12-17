@@ -2,10 +2,7 @@
 
 This project involves developing a custom C library that includes essential functions, which you’ll be allowed to reuse in all other projects within the cursus.  
 
-For more detailed information, refer to the project’s official documentation.  
-
-## Project Objective  
-The goal of this project is to implement fundamental C functions (listed below) and compile them into a reusable library that can be utilized in future projects.  
+For more detailed information, refer to the project’s official documentation.   
 
 ## Functions  
 
