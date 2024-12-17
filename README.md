@@ -63,6 +63,3 @@ The goal of this project is to implement fundamental C functions (listed below) 
 - `ft_lstclear` – Deletes nodes starting from a specified point in a list.  
 - `ft_lstiter` – Applies a function to the content of each node in a list.  
 - `ft_lstmap` – Creates a new list by applying a function to the content of each node in an existing list.  
-
-## Usage
-The library you develop in this project can serve as the foundation for larger projects. Each function is designed to be reusable, testable, and integrable into other projects with ease.  
